@@ -4,8 +4,7 @@ const pool = new Pool({
     user:'postgres',
     host:'localhost',
     database:'MealR',
-    password:'apti789',
-    port:5432,
+    password:'*'
 })
 
 //select meals
